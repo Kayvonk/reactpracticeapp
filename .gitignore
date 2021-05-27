@@ -10,8 +10,9 @@
 
 # production
 
+
 # misc
-# .env
+.env
 .DS_Store
 .env.local
 .env.development.local
@@ -129,3 +130,5 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+
+.now
